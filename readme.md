@@ -1,3 +1,9 @@
+# Description
+
+Application made to Rocketseat GoStack Certification.
+
+Meetapp is an application made to create and manage your own meetups. Later, anyone who likes your meetup purpose can subscribe and participate with you
+
 # Screenshots
 
 # ![mobile1](./screenshots/mobile1.png)
@@ -21,6 +27,12 @@
 <hr/>
 
 # Installation
+
+Requirements:
+NodeJS
+Yarn
+Postgres
+Redis
 
 ## Application Server
 
@@ -58,7 +70,7 @@ $ yarn start
 $ cd meetapp-mobile/
 
 # Install dependencies
-yarn install
+$yarn install
 
 (Mobile application tested only on Android System)
 
